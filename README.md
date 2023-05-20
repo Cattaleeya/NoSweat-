@@ -1,2 +1,2 @@
-# NoSweat- GtHub
+# NoSweat- GitHub
 Collaboration : Master
