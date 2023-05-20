@@ -1,3 +1,3 @@
-# NoSweat- GitHub
+# NoSweat- GitHub - Android Studio
 Collaboration : Master
 Edit NoSweat!
